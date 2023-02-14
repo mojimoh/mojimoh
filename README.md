@@ -1,4 +1,4 @@
-### Hi there 👋 I'm @mojimoh, Moji J a Hack for LA product manager
+### Hi there 👋 I'm @mojimoh, a Hack for LA product manager
 - 🔭 I’m currently working on Hack for LA's TDM Calculator product
 - 👀 I’m interested in Solving Problems, Good Design, Civic Tech and much more.
 - 📫 you can reach me at moji.jimoh@gmail.com
